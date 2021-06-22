@@ -130,6 +130,12 @@ body {
   margin: 0.5rem 0rem;
   padding: 0.5rem 1rem;
 }
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
 @keyframes slidein {
   0% {
     opacity: 0;
